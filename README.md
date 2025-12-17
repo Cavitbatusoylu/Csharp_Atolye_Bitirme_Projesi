@@ -134,7 +134,7 @@ Bu proje sürecinde aşağıdaki C# kavramları uygulanmıştır:
 **Cavit Batu Soylu**
 
 - GitHub: [@Cavitbatusoylu](https://github.com/Cavitbatusoylu)
-- LinkedIn: [Cavit Batu Soylu](https://linkedin.com/in/cavitbatusoylu)
+- LinkedIn: [Cavit Batu Soylu](https://www.linkedin.com/in/cavit-batu-soylu/)
 
 ---
 

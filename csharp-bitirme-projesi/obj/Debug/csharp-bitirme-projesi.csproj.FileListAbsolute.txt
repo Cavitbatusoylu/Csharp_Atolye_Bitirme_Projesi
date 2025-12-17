@@ -1,0 +1,11 @@
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\csharp-bitirme-projesi.exe.config
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\csharp-bitirme-projesi.exe
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\csharp-bitirme-projesi.pdb
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\obj\Debug\csharp-bitirme-projesi.csproj.AssemblyReference.cache
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\obj\Debug\csharp-bitirme-projesi.csproj.CoreCompileInputs.cache
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\obj\Debug\csharp-bitirme-projesi.exe
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\obj\Debug\csharp-bitirme-projesi.pdb
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\rapor.txt
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\rezervasyonlar.txt
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\rezervasyonlar.json
+C:\Users\cavit\OneDrive\Desktop\C#_Atolye_Bitirme_Projesi\csharp-bitirme-projesi\bin\Debug\rapor.json

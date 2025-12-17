@@ -1,0 +1,54 @@
+{
+  "olusturmaTarihi": "2025-12-17 20:58",
+  "toplamRezervasyonSayisi": 5,
+  "gelirOzeti": {
+    "gunlukKiralamaSayisi": 4,
+    "gunlukGelir": 30100,
+    "saatlikKiralamaSayisi": 1,
+    "saatlikGelir": 600,
+    "toplamGelir": 30700
+  },
+  "enCokKiralananArac": "Porsche Taycan (45CBS10) - 2 kez kiralandi",
+  "rezervasyonlar": [
+    {
+      "musteri": "Cavit Batu Soylu",
+      "plaka": "45CBS10",
+      "baslangic": "2025-12-14 10:00",
+      "bitis": "2025-12-20 10:00",
+      "ucret": 9000,
+      "kiralamaTipi": "Gunluk"
+    },
+    {
+      "musteri": "Cavit Batu Soylu",
+      "plaka": "65MKK09",
+      "baslangic": "2025-12-21 10:00",
+      "bitis": "2025-12-25 10:00",
+      "ucret": 7200,
+      "kiralamaTipi": "Gunluk"
+    },
+    {
+      "musteri": "Cavit Batu Soylu",
+      "plaka": "04MMC04",
+      "baslangic": "2025-12-26 00:00",
+      "bitis": "2025-12-30 00:00",
+      "ucret": 6400,
+      "kiralamaTipi": "Gunluk"
+    },
+    {
+      "musteri": "Cavit Batu Soylu",
+      "plaka": "45CBS10",
+      "baslangic": "2024-12-20 00:00",
+      "bitis": "2024-12-25 00:00",
+      "ucret": 7500,
+      "kiralamaTipi": "Gunluk"
+    },
+    {
+      "musteri": "Cavit Batu Soylu",
+      "plaka": "65MKK09",
+      "baslangic": "2024-12-26 10:00",
+      "bitis": "2024-12-26 18:00",
+      "ucret": 600,
+      "kiralamaTipi": "Saatlik"
+    }
+  ]
+}

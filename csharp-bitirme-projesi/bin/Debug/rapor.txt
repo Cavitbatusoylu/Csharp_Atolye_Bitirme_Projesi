@@ -1,0 +1,20 @@
+============================================================
+            ARAC KIRALAMA SISTEMI RAPORU                    
+            Olusturma Tarihi: 17.12.2025 20:58              
+============================================================
+  Toplam Rezervasyon Sayisi: 5
+------------------------------------------------------------
+  Gunluk Kiralama  : 4 adet - 30100 TL
+  Saatlik Kiralama : 1 adet - 600 TL
+------------------------------------------------------------
+  TOPLAM GELIR     : 30700 TL
+  En Cok Kiralanan Arac: Porsche Taycan (45CBS10) - 2 kez kiralandi
+============================================================
+                    TUM REZERVASYONLAR                      
+============================================================
+  Musteri: Cavit Batu Soylu | Plaka: 45CBS10 | 14.12.2025 - 20.12.2025 | Ucret: 9000 TL (Gunluk)
+  Musteri: Cavit Batu Soylu | Plaka: 65MKK09 | 21.12.2025 - 25.12.2025 | Ucret: 7200 TL (Gunluk)
+  Musteri: Cavit Batu Soylu | Plaka: 04MMC04 | 26.12.2025 - 30.12.2025 | Ucret: 6400 TL (Gunluk)
+  Musteri: Cavit Batu Soylu | Plaka: 45CBS10 | 20.12.2024 - 25.12.2024 | Ucret: 7500 TL (Gunluk)
+  Musteri: Cavit Batu Soylu | Plaka: 65MKK09 | 26.12.2024 - 26.12.2024 | Ucret: 600 TL (Saatlik)
+============================================================
