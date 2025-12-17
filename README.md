@@ -136,10 +136,6 @@ Bu proje sürecinde aşağıdaki C# kavramları uygulanmıştır:
 - GitHub: [@Cavitbatusoylu](https://github.com/Cavitbatusoylu)
 - LinkedIn: [Cavit Batu Soylu](https://linkedin.com/in/cavitbatusoylu)
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
 ---
 
 <p align="center">
